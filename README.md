@@ -1,4 +1,4 @@
-# Power-Automate-Extract-PBI-Data
+# Power-Automate-Extract-PBI-Data-Store-Csv
 This flow aims to extract data from Power BI and store it in a csv.
 A dataset and table have been created previous to this flow running.
 
